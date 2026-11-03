@@ -1,0 +1,254 @@
+#EXTM3U
+#EXTINF:-1 group-title="TV2",ESPN
+http://190.60.37.154:45000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="TV2",ESPN 2
+http://190.60.37.154:45000/play/a039/index.m3u8
+#EXTINF:-1 group-title="TV2",ESPN 3
+http://190.60.37.154:45000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="TV2",ESPN 4
+http://190.60.37.154:45000/play/a046/index.m3u8
+#EXTINF:-1 group-title="TV2",ESPN CO
+http://190.60.37.154:45000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="TV2",FX2
+http://190.60.37.154:45000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="TV2",Fox Sports 22
+http://190.60.37.154:45000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="TV2",Fox Sports 32
+http://190.60.37.154:45000/play/a03o/index.m3u8
+
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png",ACC Digital Network
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488450
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png",ACC Network
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488451
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/corp/aa/amc_networks_us.png",AMC +
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488453
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png",AMC en Español HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488454
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png",AMC HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72612
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/aa/african_movie_channel_uk_series.png",AMC Thrillers
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488455
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png",ANIMAL PLANET
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72588
+#EXTINF:-1 group-title="TV | SLING",Aym HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488449
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png",AZTECA 1 HEVC H265 (XHDF-TDT)
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72573
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png",AZTECA 7 MTY C
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73619
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png",AZTECA UNO -1 HRS
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/89359
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png",BABY TV MX (c)
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72602
+#EXTINF:-1 group-title="TV | SLING",BabyTV
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490716
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",beIN SPORTS en Español
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488239
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png",beIN SPORTS XTRA
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488590
+#EXTINF:-1 group-title="TV | DTS-2",BIG THE NETWORK E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491444
+#EXTINF:-1 group-title="TV | SLING",Boomerang East
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490720
+#EXTINF:-1 group-title="TV | DTS-2",BRAVO E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491445
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png",Canal 5 HD Mexico
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73530
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png",Canal 5 HEVC (XHGC-TDT)
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72585
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png",Canal 5 Op-2 C
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/75557
+#EXTINF:-1 group-title="TV | SLING",Cartoon Network & Adult Swim
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491320
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinecanal-us.png",CINECANAL HD (c)
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72613
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_latino.png",Cinelatino HQ
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488439
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_lam.png",CINEMAX HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72620
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png",CLARO SPORTS HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72656
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png",COMEDY CENTRAL
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72583
+#EXTINF:-1 group-title="TV | DTS-2",Comedy Central E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491447
+#EXTINF:-1 group-title="TV | DTS-2",Discovery en Español E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491448
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-en-espanol-us.png",Discovery en Español HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488429
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_family_us.png",Discovery Familia HQ
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488430
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png",DISCOVERY KIDS MX HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72607
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_lam.png",DISCOVERY WORLD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72590
+#EXTINF:-1 group-title="TV | SLING",Disney Channel
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490735
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png",DISNEY CHANNEL (c)
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72605
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png",DISNEY JR HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72606
+#EXTINF:-1 group-title="TV | SLING",Disney XD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490736
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/distrito-comedia-mx.png",DISTRITO COMEDIA
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72582
+#EXTINF:-1 group-title="TV | DTS-2",ENC: A+
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491862
+#EXTINF:-1 group-title="TV | DTS-2",ENC: ADN 40
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491861
+#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA 7
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491856
+#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA 7 1
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491857
+#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA 7 2
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491858
+#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA Cinema
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491844
+#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA UNO
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491842
+#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA UNO -1 HR
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491843
+#EXTINF:-1 group-title="TV | DTS-2",ENC: CANAL 5
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491848
+#EXTINF:-1 group-title="TV | DTS-2",ENC: CANAL 5
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491849
+#EXTINF:-1 group-title="TV | DTS-2",ENC: CANAL NU9VE
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491860
+#EXTINF:-1 group-title="TV | DTS-2",ENC: IMAGEN TV
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491845
+#EXTINF:-1 group-title="TV | DTS-2",ENC: MILENIO
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491864
+#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS CDENC
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491851
+#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS GDL
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491854
+#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS LAGUNA
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491853
+#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS PUEBLA
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491855
+#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS TELEDIARIO NOW
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491850
+#EXTINF:-1 group-title="TV | DTS-2",ENC: N+ FORO
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491865
+#EXTINF:-1 group-title="TV | DTS-2",ENC: N+ GDL
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491866
+#EXTINF:-1 group-title="TV | DTS-2",ENC: N+ MTY
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491867
+#EXTINF:-1 group-title="TV | EVENTOS LIGA MX BBVA" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_extra_lam.png",ESPN + IHD MX
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73572
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png",ESPN 2 EN HD E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491440
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN EN HD E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491439
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_u.png",ESPN U HD E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491442
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espnews.png",ESPNews HD E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491441
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png",ESTRELLA HD CDMX HEVC H265
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72580
+#EXTINF:-1 group-title="TV | DTS-2",Estrella TV E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491449
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png",ESTRELLAS (102-XEWD.F) (TP)
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/89857
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png",ESTRELLAS -2 HRS
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72579
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews-deutsch-fr.svg",Euronews FHD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488442
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_network_ca.png",FIGHT NETWORK 77
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72653
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://i.imgur.com/D3dj4mv.png",Filmex Clasico
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/204851
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png",FOX SPORTS 2
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72657
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png",FOX SPORTS 3 H264
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/261862
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",FS 1 E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491425
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png",FS2 E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491438
+#EXTINF:-1 group-title="TV | SLING",GET Comedy
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491343
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png",Hallmark Channel E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491421
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png",Hallmark Family E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491422
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png",Hallmark Mystery E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491423
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png",Hallmark Mystery E HDTV
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491424
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491933
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491916
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491917
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_lam.png",HBO 2 HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72636
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png",HBO EXTREME
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72641
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_east.png",HBO HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72635
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png",HBO PLUS C
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72637
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491927
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491928
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491929
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491935
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="http://live.detodotvplay.com:8080/images/ce3bc7ed47d99697c8e8e317d8eacaae.png",HDTV  NBC Sports Now E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491508
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://logos.xbots.com.mx/ae.png",HDTV A&E E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491524
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png/revision/latest?cb=20200121211921&path-prefix=es",HDTV Action Max E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491481
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/240px-Big_Ten_Network_Logo.svg.png",HDTV BTN E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491527
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png",HDTV HBO Latino E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491475
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="http://live.detodotvplay.com:8080/images/b0288019be44bf4326b182bddff3be49.png",HDTV MoreMax E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491482
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png",HDTV MSG Plus 2 E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491492
+#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png",HDTV MSG Plus E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491491
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-en-espanol-us.png",History en Español HD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488270
+
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/mm/multipremier_mx.png",MULTIPREMIER MP
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72628
+#EXTINF:-1 group-title="TV | DTS-2",NBA TV E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491455
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png",NFL HD 77
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72662
+#EXTINF:-1 group-title="TV | SLING",Nick Jr.
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490731
+#EXTINF:-1 group-title="TV | SLING",NickToons
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490729
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvc_panico.png",PANICO FHD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/299634
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png",PARAMOUNT
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72617
+
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/studio_universal_global.png",STUDIO UNIVERSAL IHD
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72621
+
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_internacional.png",TELEMUNDO INTERNACIONAL
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72581
+
+#EXTINF:-1 group-title="TV | SLING",The Walking Dead Universe
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488416
+
+#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png",TNT HD Norte
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488414
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png",TNT Latino HD c
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73611
+
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png",UNIVERSAL PREMIER
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72625
+#EXTINF:-1 group-title="TV | DTS-2",UNIVERSO E
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491456
+#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png",Warner TV
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72643

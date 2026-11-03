@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,WARNER
+http://190.60.37.154:45000/play/a03e/index.m3u8
+#EXTINF:-1,DisnepJR
+http://190.60.37.154:45000/play/a03a/index.m3u8
+#EXTINF:-1,DisnepChannel
+http://190.60.37.154:45000/play/a03b/index.m3u8
+#EXTINF:-1,Espn
+http://190.60.37.154:45000/play/a03i/index.m3u8
+#EXTINF:-1,ESPN 6
+http://190.60.37.154:45000/play/a03o/index.m3u8
+#EXTINF:-1,ESPN 7
+http://190.60.37.154:45000/play/a03n/index.m3u8
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://190.60.37.154:45000/play/a03p/index.m3u8
+#EXTINF:-1,Las estrellas 2
+http://190.60.37.154:45000/play/a03m/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.60.37.154:45000/play/a05n/15798901.m3u8
+#EXTINF:-1,ESPN
+http://179.1.199.50:9000/play/a04l/43877211.m3u8
+#EXTINF:-1,HBO XTREME
+http://179.1.199.50:9000/play/a00x/69492520.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+http://179.1.199.50:9000/play/a00x/210983288.m3u8
+#EXTINF:-1,A&E
+http://138.121.15.230:9002/A&E/index.m3u8
+#EXTINF:-1,FX
+http://138.121.15.230:9002/FX/index.m3u8
+#EXTINF:-1,SPACE
+http://138.121.15.230:9002/SPACE/index.m3u8
+#EXTINF:-1,TNT
+http://138.121.15.230:9002/TNT/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://190.60.37.154:45000/play/a055/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://190.60.37.154:45000/play/a054/index.m3u8
+#EXTINF:-1,HBO2
+http://190.60.37.154:45000/play/a052/index.m3u8
+#EXTINF:-1,HBO
+http://190.60.37.154:45000/play/a056/index.m3u8
