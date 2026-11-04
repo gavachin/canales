@@ -16,6 +16,9 @@ http://190.60.37.154:45000/play/a03n/index.m3u8
 #EXTINF:-1 group-title="TV2",Fox Sports 32
 http://190.60.37.154:45000/play/a03o/index.m3u8
 
+
+#EXTINF:-1 group-title="TV | MIS CANALES",SONY MOVIES
+http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",WARNER
 http://190.60.37.154:45000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",DisnepJR
