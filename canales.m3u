@@ -60,239 +60,292 @@ http://190.60.37.154:45000/play/a052/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",HBO
 http://190.60.37.154:45000/play/a056/index.m3u8
 
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png",ACC Digital Network
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488450
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png",ACC Network
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488451
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/corp/aa/amc_networks_us.png",AMC +
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488453
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png",AMC en Español HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488454
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png",AMC HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72612
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/aa/african_movie_channel_uk_series.png",AMC Thrillers
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488455
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png",ANIMAL PLANET
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72588
-#EXTINF:-1 group-title="TV | SLING",Aym HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488449
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png",AZTECA 1 HEVC H265 (XHDF-TDT)
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72573
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-7-mx.png",AZTECA 7 MTY C
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73619
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/aa/azteca-uno-mx.png",AZTECA UNO -1 HRS
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/89359
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png",BABY TV MX (c)
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72602
-#EXTINF:-1 group-title="TV | SLING",BabyTV
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490716
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_espanol.png",beIN SPORTS en Español
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488239
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png",beIN SPORTS XTRA
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488590
-#EXTINF:-1 group-title="TV | DTS-2",BIG THE NETWORK E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491444
-#EXTINF:-1 group-title="TV | SLING",Boomerang East
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490720
-#EXTINF:-1 group-title="TV | DTS-2",BRAVO E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491445
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png",Canal 5 HD Mexico
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73530
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png",Canal 5
-https://srregio.online/php/tele_m3u.php?canal=canal5&u=regio36&exp=1793680663&sig=3abba5d46bf5eed9f5d61c872da65982955e75260de7e1c2c2bf64b879dd7608&f=.m3u8
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal_5_mx.png",Canal 5 Op-2 C
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/75557
-#EXTINF:-1 group-title="TV | SLING",Cartoon Network & Adult Swim
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491320
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinecanal-us.png",CINECANAL HD (c)
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72613
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_latino.png",Cinelatino HQ
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488439
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_lam.png",CINEMAX HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72620
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png",CLARO SPORTS HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72656
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/comedy-central-deutschland-us-de.png",COMEDY CENTRAL
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72583
-#EXTINF:-1 group-title="TV | DTS-2",Comedy Central E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491447
-#EXTINF:-1 group-title="TV | DTS-2",Discovery en Español E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491448
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-en-espanol-us.png",Discovery en Español HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488429
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_family_us.png",Discovery Familia HQ
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488430
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-kids-america-latina-us.png",DISCOVERY KIDS MX HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72607
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_hd_world_lam.png",DISCOVERY WORLD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72590
-#EXTINF:-1 group-title="TV | SLING",Disney Channel
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490735
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png",DISNEY CHANNEL (c)
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72605
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png",DISNEY JR HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72606
-#EXTINF:-1 group-title="TV | SLING",Disney XD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490736
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/dd/distrito-comedia-mx.png",DISTRITO COMEDIA
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72582
-#EXTINF:-1 group-title="TV | DTS-2",ENC: A+
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491862
-#EXTINF:-1 group-title="TV | DTS-2",ENC: ADN 40
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491861
-#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA 7
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491856
-#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA 7 1
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491857
-#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA 7 2
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491858
-#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA Cinema
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491844
-#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA UNO
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491842
-#EXTINF:-1 group-title="TV | DTS-2",ENC: AZTECA UNO -1 HR
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491843
-#EXTINF:-1 group-title="TV | DTS-2",ENC: CANAL 5
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491848
-#EXTINF:-1 group-title="TV | DTS-2",ENC: CANAL 5
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491849
-#EXTINF:-1 group-title="TV | DTS-2",ENC: CANAL NU9VE
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491860
-#EXTINF:-1 group-title="TV | DTS-2",ENC: IMAGEN TV
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491845
-#EXTINF:-1 group-title="TV | DTS-2",ENC: MILENIO
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491864
-#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS CDENC
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491851
-#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS GDL
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491854
-#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS LAGUNA
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491853
-#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS PUEBLA
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491855
-#EXTINF:-1 group-title="TV | DTS-2",ENC: MULTIMEDIOS TELEDIARIO NOW
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491850
-#EXTINF:-1 group-title="TV | DTS-2",ENC: N+ FORO
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491865
-#EXTINF:-1 group-title="TV | DTS-2",ENC: N+ GDL
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491866
-#EXTINF:-1 group-title="TV | DTS-2",ENC: N+ MTY
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491867
-#EXTINF:-1 group-title="TV | EVENTOS LIGA MX BBVA" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_extra_lam.png",ESPN + IHD MX
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73572
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_2.png",ESPN 2 EN HD E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491440
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_us.png",ESPN EN HD E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491439
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_u.png",ESPN U HD E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491442
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espnews.png",ESPNews HD E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491441
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png",ESTRELLA HD CDMX HEVC H265
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72580
-#EXTINF:-1 group-title="TV | DTS-2",Estrella TV E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491449
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png",ESTRELLAS (102-XEWD.F) (TP)
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/89857
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ll/las_estrellas_mx.png",ESTRELLAS -2 HRS
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72579
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euronews-deutsch-fr.svg",Euronews FHD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488442
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_network_ca.png",FIGHT NETWORK 77
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72653
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://i.imgur.com/D3dj4mv.png",Filmex Clasico
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/204851
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_2_asia.png",FOX SPORTS 2
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72657
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_asia.png",FOX SPORTS 3 H264
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/261862
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png",FS 1 E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491425
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_2.png",FS2 E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491438
-#EXTINF:-1 group-title="TV | SLING",GET Comedy
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491343
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png",Hallmark Channel E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491421
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png",Hallmark Family E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491422
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png",Hallmark Mystery E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491423
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark_channel_east.png",Hallmark Mystery E HDTV
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491424
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491933
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491916
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491917
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo2_lam.png",HBO 2 HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72636
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-xtreme-us.png",HBO EXTREME
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72641
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_east.png",HBO HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72635
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo-plus-us.png",HBO PLUS C
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72637
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491927
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491928
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491929
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491935
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="http://live.detodotvplay.com:8080/images/ce3bc7ed47d99697c8e8e317d8eacaae.png",HDTV  NBC Sports Now E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491508
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://logos.xbots.com.mx/ae.png",HDTV A&E E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491524
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png/revision/latest?cb=20200121211921&path-prefix=es",HDTV Action Max E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491481
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/240px-Big_Ten_Network_Logo.svg.png",HDTV BTN E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491527
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png",HDTV HBO Latino E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491475
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="http://live.detodotvplay.com:8080/images/b0288019be44bf4326b182bddff3be49.png",HDTV MoreMax E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491482
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png",HDTV MSG Plus 2 E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491492
-#EXTINF:-1 group-title="TV | DTS-2" tvg-logo="http://live.detodotvplay.com:8080/images/54bb5e0af9ae9e70b15679652535b3d7.png",HDTV MSG Plus E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491491
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-en-espanol-us.png",History en Español HD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488270
 
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/mm/multipremier_mx.png",MULTIPREMIER MP
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72628
-#EXTINF:-1 group-title="TV | DTS-2",NBA TV E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491455
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png",NFL HD 77
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72662
-#EXTINF:-1 group-title="TV | SLING",Nick Jr.
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490731
-#EXTINF:-1 group-title="TV | SLING",NickToons
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490729
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvc_panico.png",PANICO FHD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/299634
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-latin-america-us.png",PARAMOUNT
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72617
 
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/studio_universal_global.png",STUDIO UNIVERSAL IHD
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72621
 
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo_internacional.png",TELEMUNDO INTERNACIONAL
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72581
 
-#EXTINF:-1 group-title="TV | SLING",The Walking Dead Universe
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488416
+#EXTINF:-1 tvg-logo="https://imgur.com/76pIwxw.png" group-title="MÉXICO" , Las Estrellas
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xr0ApCT.png" group-title="MÉXICO" , AZ UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo=".png" group-title="MÉXICO" , AZ 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/obrayZO.png" group-title="MÉXICO" , MULTIMEDIOS MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LH6DOKs.png" group-title="MÉXICO" , ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LH6DOKs.png" group-title="MÉXICO", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/LPcaNgw.png" group-title="MÉXICO" , ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="642" tvg-name="8 NTV" tvg-logo="https://cdn.m3u.cl/logo/642_8_NTV.png", 8 NTV
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="658" tvg-name="ADN 40" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="660" tvg-name="Canal 10 Chiapas" tvg-logo="https://cdn.m3u.cl/logo/660_Canal_10_Chiapas.png", Canal 10 Chiapas
+https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="652" tvg-name="TV Mexiquense" tvg-logo="https://cdn.m3u.cl/logo/652_Mexiquense_TV.png", TV Mexiquense
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="668" tvg-name="Multimedios Guadalajara" tvg-logo="https://cdn.m3u.cl/logo/668_Multimedios_Guadalajara.png", Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="669" tvg-name="Multimedios Laguna" tvg-logo="https://cdn.m3u.cl/logo/669_Multimedios_Laguna.png", Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="670" tvg-name="Multimedios Monterrey" tvg-logo="https://cdn.m3u.cl/logo/670_Multimedios_Monterrey.png", Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="676" tvg-name="RTQ Queretaro" tvg-logo="https://cdn.m3u.cl/logo/676_RTQ_Queretaro.png", RTQ Queretaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://cdn.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png", SIZART Canal 24 Zacatecas
+https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="656" tvg-name="TV4 MÉXICO" tvg-logo="https://cdn.m3u.cl/logo/656_TV4_MÃ‰XICO.png", TV4 MÃ‰XICO
+https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="651" tvg-name="TVP Culiacan" tvg-logo="https://cdn.m3u.cl/logo/651_TVP_Culiacan.png", TVP Culiacan
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="648" tvg-name="TVP Los Mochis" tvg-logo="https://cdn.m3u.cl/logo/648_TVP_Los_Mochis.png", TVP Los Mochis
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="649" tvg-name="TVP Mazatlán" tvg-logo="https://cdn.m3u.cl/logo/649_TVP_Mazatlan.png", TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="650" tvg-name="TVP Obregon" tvg-logo="https://cdn.m3u.cl/logo/650_TVP_Obregon.png", TVP Obregon
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="641" tvg-name="UMTV" tvg-logo="https://cdn.m3u.cl/logo/641_UMTV.png", UMTV
+https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8
+#EXTINF:-1 group-title="MÃ‰XICO" tvg-id="1042" tvg-name="AMX MÃ‰XICO" tvg-logo="https://cdn.m3u.cl/logo/1042_AMX_MÃ‰XICO.png", AMX MÃ‰XICO
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 group-title="MÉXICO" tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://cdn.m3u.cl/logo/865_Alcance_TV.png", Alcance TV
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
-#EXTINF:-1 group-title="TV | SLING" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png",TNT HD Norte
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488414
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt_us.png",TNT Latino HD c
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73611
 
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png",UNIVERSAL PREMIER
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72625
-#EXTINF:-1 group-title="TV | DTS-2",UNIVERSO E
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491456
-#EXTINF:-1 group-title="TV | MEXICO" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png",Warner TV
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72643
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BT1f1ER.png" group-title="ENTRETENIMIENTO",Kanade TV
+https://static.kanade.cl/hls/kanade.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ADPkway.png" group-title="ENTRETENIMIENTO",EnerGeek Retro
+https://cdn.energeek.cl/hls/energeekretro.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Q9Sg7FJ.png" group-title="ENTRETENIMIENTO",EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ieOn20X.png" group-title="MÚSICA",EnerGeek Radio
+https://cdn.energeek.cl/hls/energeekradio.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="ENTRETENIMIENTO",Wapp
+http://tecnotv.club/puxh/phpcode/distro.php?c=wapptv
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="ENTRETENIMIENTO",El Conflicto TV
+http://tecnotv.club/puxh/phpcode/distro.php?c=el-conflicto-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="ENTRETENIMIENTO",Glewedtv Español
+http://tecnotv.club/puxh/phpcode/distro.php?c=glewedtv-spanish
+#EXTINF:-1 tvg-logo="https://imgur.com/3GDuhMn.png" group-title="ENTRETENIMIENTO",XFT TV
+http://tecnotv.club/puxh/phpcode/distro.php?c=xfc-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/yq7IDF5.png" group-title="MUSICA",La Bocina Latina
+http://tecnotv.club/puxh/phpcode/distro.php?c=la-bocina-latina
+#EXTINF:-1 tvg-logo="https://imgur.com/jV8FR8G.png" group-title="MUSICA",Trace Latina
+http://tecnotv.club/puxh/phpcode/distro.php?c=trace-latina
+#EXTINF:-1 tvg-logo="https://imgur.com/s2l6SqL.png" group-title="ENTRETENIMIENTO",Romance
+http://tecnotv.club/puxh/phpcode/distro.php?c=romance-channel
+#EXTINF:-1 tvg-logo="https://imgur.com/Q7kuIdC.png" group-title="CINE Y SERIE",CINDIE
+http://tecnotv.club/puxh/phpcode/distro.php?c=cindie-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/lt9iw7r.png" group-title="CINE Y SERIES",Mi Miedo Canal
+http://tecnotv.club/puxh/phpcode/distro.php?c=mi-miedo-canal
+#EXTINF:-1 tvg-logo="https://imgur.com/DRRHYTq.png" group-title="INFANTIL",Zaz
+http://tecnotv.club/puxh/phpcode/distro.php?c=zaz
+#EXTINF:-1 tvg-logo="https://imgur.com/pn5bxez.png" group-title="ENTRETENIMIENTO",MI Raza
+http://tecnotv.club/puxh/phpcode/distro.php?c=mi-raza-canal
+#EXTINF:-1 tvg-logo="https://imgur.com/GsXkH1B.png" group-title="INFANTIL",Pitufo TV
+http://tecnotv.club/puxh/phpcode/distro.php?c=pitufo-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/X1aVw04.png" group-title="CINE Y SERIES",BOX CINEMA
+http://tecnotv.club/puxh/phpcode/distro.php?c=box-cinema
+#EXTINF:-1 tvg-logo="https://imgur.com/aZQyWKf.png" group-title="MÚSICA",ÉXITOS MUSICAL
+http://tecnotv.club/puxh/phpcode/distro.php?c=hits-mexicanos
+#EXTINF:-1 tvg-logo="https://imgur.com/oN5jnse.png" group-title="MUSICA",ROCKOLA TV
+http://tecnotv.club/puxh/phpcode/distro.php?c=rockola-television
+#EXTINF:-1 tvg-logo="https://imgur.com/gQz0HBx.png" group-title="INFANTIL",TOONZ KIDS
+http://tecnotv.club/puxh/phpcode/distro.php?c=toonzkids-ninos
+#EXTINF:-1 tvg-logo="https://imgur.com/j77s5Js.png" group-title="INFANTIL",TOON GOGGLES
+http://tecnotv.club/puxh/phpcode/distro.php?c=toon-goggles-en-espanol
+
+
+
+#EXTINF:-1 canal-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="ENTRETENIMIENTO,RunTime
+http://tecnotv.club/puxh/phpcode/runtime.php?c=2154
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/LhYX209.png" group-title="CINE Y SERIES,Accion
+http://tecnotv.club/puxh/phpcode/runtime.php?c=2550
+#EXTINF:-1 canal-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="ENTRETENIMIENTO,Comedia
+http://tecnotv.club/puxh/phpcode/runtime.php?c=2551
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/vZu909y.png" group-title="CINE Y SERIES,Crimen
+http://tecnotv.club/puxh/phpcode/runtime.php?c=3533
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="CINE Y SERIES,Cine Espanto
+http://tecnotv.club/puxh/phpcode/runtime.php?c=6126
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/nx7oVpZ.png" group-title="CINE Y SERIES,Cine
+http://tecnotv.club/puxh/phpcode/runtime.php?c=2550
+#EXTINF:-1 canal-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	
+http://tecnotv.club/puxh/phpcode/runtime.php?c=4827
+#EXTINF:-1 canal-id="" tvg-id="" tvg-logo="https://imgur.com/NGeikk3.png" group-title="ENTRETENIMIENTO",Corazon
+http://tecnotv.club/puxh/phpcode/runtime.php?c=4826
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="ENTRETENIMIENTO",Romance
+http://tecnotv.club/puxh/phpcode/runtime.php?c=6119
+#EXTINF:-1 canal-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="ENTRETENIMIENTO,Familia
+http://tecnotv.club/puxh/phpcode/runtime.php?c=3528
+#EXTINF:-1 canal-id="" tvg-id="" tvg-logo="https://imgur.com/bHhRRom.png" group-title="DEPORTES",AYM
+http://tecnotv.club/puxh/phpcode/runtime.php?c=5106
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/2VSHowT.png" group-title="NOTICIAS",Imagen TV
+http://tecnotv.club/puxh/phpcode/runtime.php?c=6149
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/6vMJBXl.png" group-title="ENTRETENIMIENTO",Sangre Fría
+http://tecnotv.club/puxh/phpcode/runtime.php?c=6130
+
+
+#EXTINF:-1 group-title="-",AXN
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a030&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Animal Planet
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03j&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",BabyFirst
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00d&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CANAL CHD
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a012&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",CNN Español
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal Caracol
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal Estrellas
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01q&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal Institucional
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02k&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal RCN
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Canal Uno
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02e&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Capital
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02w&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a009&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Cinecanal
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a006&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Cinemax
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02y&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",City TV
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03m&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ID de descubrimiento
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Disney Channel
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01b&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Disney Jr
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00k&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",E Entertainment
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01f&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01i&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 2
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00m&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 3
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a037&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN 4
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a025&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN CO
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02p&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a016&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Enlace
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",FX
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a032&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 2
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 3
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",History Channel
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",HomeandHealth
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a020&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|BETHEL
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03l&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|CABLENOTICIAS
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|CINE FAMILIAR
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03u&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|CINE HISPANO
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03v&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|CINE INFANTIL
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03w&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|CINE PREMIUN
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|CRISTOVISION
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a040&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|DE PELÍCULA
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a041&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|GOLDEN
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04c&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|HOGAR TV
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a050&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|MI MÚSICA POPULAR
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04e&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|MI MÚSICA REGGAETON
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04f&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|MI MÚSICA SALSA
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|RUMBA TV
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04k&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|TELEAMIGA
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04n&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|TELEANTILLA
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|TELEMEDELLIN
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|TELENOSTALGIA
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|TELENOVELAS
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|TELEVIDA
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04x&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",IPTV|TVAGRO
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a051&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",National Geographic
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03r&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Nick Jr
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03a&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",RCN Novelas
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01u&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",STAR CHANNEL
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a008&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Senal Colombia
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02m&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Sony
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02z&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Espacio
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a031&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TLC
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01o&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TNT
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a00a&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",TRO
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Teleantioquia
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a033&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telecafe
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03g&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telecaribe
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03e&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Teleislas
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02u&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telemundo
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a01t&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Telepacifico
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a035&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Trece
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03h&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Universal
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a007&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Win Sports + HD
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a03d&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",Zoom
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a02s&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",amc
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a036&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 group-title="-",tyc
+http://tecnotv.club/puxh/phpcode/ssiptv.php?c=a04m&token=tecnotokenplustv230516F&f=.m3u8
