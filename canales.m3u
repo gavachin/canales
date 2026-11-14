@@ -41,7 +41,7 @@ http://190.60.37.154:45000/play/a05n/index.m3u8
 http://179.1.199.50:9000/play/a04l/43877211.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES HD",HBO XTREME HD
 http://179.1.199.50:9000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",LAS ESTRELLAS
+#EXTINF:-1 group-title="TV | MIS CANALES HD",LAS ESTRELLAS
 http://181.78.8.199:8000/play/a0as/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",A&E
 http://138.121.15.230:9002/A&E/index.m3u8
@@ -84,18 +84,23 @@ http://190.60.37.154:45000/play/a04l/index.m3u8
 http://190.60.37.154:45000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES HD",TURBO
 http://190.60.37.154:45000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",TNT HD
+#EXTINF:-1 group-title="TV | MIS CANALES HD",TNT HD
 http://179.1.199.50:9000/play/a039/index.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",DE PELICULA
+#EXTINF:-1 group-title="TV | MIS CANALES HD",DE PELICULA
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",UNIVISION
+#EXTINF:-1 group-title="TV | MIS CANALES HD",UNIVISION
 http://181.78.8.199:8000/play/a0av/index.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",EDGE
+#EXTINF:-1 group-title="TV | MIS CANALES HD",EDGE
 http://181.78.8.199:8000/play/a0ab/index.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",HISTORY 2
+#EXTINF:-1 group-title="TV | MIS CANALES HD",HISTORY 2
 http://181.78.8.199:8000/play/a0ag/index.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",TELENOVELAS
+#EXTINF:-1 group-title="TV | MIS CANALES HD",TELENOVELAS
 http://181.78.8.199:8000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",HISTORY
+#EXTINF:-1 group-title="TV | MIS CANALES HD",HISTORY
 http://181.78.8.199:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="TV | MIS CANALES HD",DISTRITO COMEDIA
+http://181.78.8.199:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="TV | MIS CANALES HD",BANDAMAX
+http://181.78.8.199:8000/play/a0g9/index.m3u8
+
 
