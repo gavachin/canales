@@ -39,7 +39,7 @@ http://190.60.37.154:45000/play/a03m/index.m3u8
 http://190.60.37.154:45000/play/a05n/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",ESPN
 http://179.1.199.50:9000/play/a04l/43877211.m3u8
-#EXTINF:-1 group-title="TV | MIS CANALES",HBO XTREME HD
+#EXTINF:-1 group-title="TV | MIS CANALES HD",HBO XTREME HD
 http://179.1.199.50:9000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",LAS ESTRELLAS
 http://179.1.199.50:9000/play/a00x/210983288.m3u8
@@ -74,8 +74,19 @@ http://179.1.199.50:9000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",HBO 2 HD
 http://179.1.199.50:9000/play/a00v/index.m3u8
 
-#EXTINF:-1 group-title="TV | MIS CANALES",SPACE HD
+#EXTINF:-1 group-title="TV | MIS CANALEs HD",SPACE HD
 http://190.60.37.154:45000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="TV | MIS CANALES HD",CARACOL TV
+http://190.60.37.154:45000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="TV | MIS CANALES HD",CINEMAX
+http://190.60.37.154:45000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="TV | MIS CANALES HD",SONY
+http://190.60.37.154:45000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="TV | MIS CANALES HD",TURBO
+http://190.60.37.154:45000/play/a04s/index.m3u8
+
+
+
 
 http://190.60.37.154:45000/play/a039/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",TNT HD
