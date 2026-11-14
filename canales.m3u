@@ -40,7 +40,7 @@ http://190.60.37.154:45000/play/a05n/15798901.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",ESPN
 http://179.1.199.50:9000/play/a04l/43877211.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",HBO XTREME
-http://179.1.199.50:9000/play/a00x/69492520.m3u8
+http://179.1.199.50:9000/play/a00x/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",LAS ESTRELLAS
 http://179.1.199.50:9000/play/a00x/210983288.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES",A&E
