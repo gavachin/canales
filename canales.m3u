@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV2",ESPN
+#EXTINF:-1 group-title="TV | MIS CANALES HD",ESPN
 http://190.60.37.154:45000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="TV2",ESPN 2
+#EXTINF:-1 group-title="TV | MIS CANALES HD",ESPN 2
 http://190.60.37.154:45000/play/a039/index.m3u8
-#EXTINF:-1 group-title="TV2",ESPN 3
+#EXTINF:-1 group-title="TV | MIS CANALES HD",ESPN 3
 http://190.60.37.154:45000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="TV2",ESPN 4
+#EXTINF:-1 group-title="TV | MIS CANALES HD",ESPN 4
 http://190.60.37.154:45000/play/a046/index.m3u8
-#EXTINF:-1 group-title="TV2",ESPN CO
+#EXTINF:-1 group-title="TV | MIS CANALES HD",ESPN CO
 http://190.60.37.154:45000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="TV2",FX2
+#EXTINF:-1 group-title="TV | MIS CANALES HD",FX2
 http://190.60.37.154:45000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="TV2",Fox Sports 22
+#EXTINF:-1 group-title="TV | MIS CANALES HD",ESPN 7
 http://190.60.37.154:45000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="TV2",Fox Sports 32
+#EXTINF:-1 group-title="TV | MIS CANALES HD",ESPN 6
 http://190.60.37.154:45000/play/a03o/index.m3u8
 
 
@@ -112,4 +112,5 @@ http://181.78.8.199:8000/play/a0cs/index.m3u8
 http://181.78.8.199:8000/play/a0c4/index.m3u8
 #EXTINF:-1 group-title="TV | MIS CANALES HD",STAR
 http://181.78.8.199:8000/play/a0c9/index.m3u8
-
+#EXTINF:-1 group-title="TV | MIS CANALES HD",CANAL 2
+https://bks400-zam-02.quieroxview.com.mx/bpk-token/1ax@q5r1riz1hohcfsk3awddfdxdrc2p2oekq1tek2aa/dash/las_estrellas_jiq_sahu_hd-video=6344800-107685439130329.dash
